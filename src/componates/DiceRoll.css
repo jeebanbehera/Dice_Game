@@ -1,0 +1,47 @@
+.roll{
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    align-items: center;
+    margin-top: 12px;
+}
+.roll-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.roll .roll-img img{
+    max-width: 170px;
+    height: 170px;
+    margin:0 ;
+    
+}
+.roll  .roll-img p{
+    max-width: 170px;
+    font-weight: 500;
+    font-size: 19px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.roll-btn button{
+    width: 170px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.roll-btn button:hover{
+    opacity: 0.8;
+    font-size: 15px;
+}
+.show-rules{
+    background-color: black;
+    color: white;
+}
+
+

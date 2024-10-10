@@ -1,0 +1,41 @@
+.main{
+      
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: gray; */
+}
+.dice{
+    width: 1080px;
+    height: 422px;
+    margin: 0 auto;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+
+}
+.dice-img img{
+    width: 549px;
+    height: 422px;
+}
+.dice h1{
+    font-size: 76px;
+    margin: 0;
+    white-space: nowrap;
+
+}
+.dice button{
+    width: 180px;
+    height: 29px;
+    background-color: black;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    margin-left: 59%;
+}
+.dice button:hover{
+    opacity: 0.9;
+}

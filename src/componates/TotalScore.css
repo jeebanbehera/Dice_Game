@@ -1,0 +1,22 @@
+.total-score {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-top: 40px;
+    /* background-color: yellow; */
+}
+
+.total-score h1{
+    font-size: 90px;
+    margin: 0;
+    margin-left: 30%;
+    cursor: pointer;
+}
+.total-score p{
+    font-size: 20px;
+    font-weight:600 ;
+    margin: 0;
+    cursor: pointer;
+}

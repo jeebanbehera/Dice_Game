@@ -1,0 +1,16 @@
+.rules{
+    background-color: #fbf1f1;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+
+    /* display: flex; */
+    /* justify-content: space-between; */
+    align-items: center;
+    max-width: 650px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.rules p{
+    margin-bottom: 5px;
+}
