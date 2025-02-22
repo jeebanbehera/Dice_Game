@@ -27,7 +27,7 @@ export default function Box({
                 )} 
             </div>
             <div className="boxx-para" >
-                <p>Select Number</p>
+                <p>Select Numberr</p>
             </div>      
         </div>
 
